@@ -1,0 +1,1 @@
+rm excursion_service.db
